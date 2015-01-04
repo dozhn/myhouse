@@ -1,0 +1,4 @@
+myhouse
+=======
+
+public,justified,opened
